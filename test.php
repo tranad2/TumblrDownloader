@@ -23,7 +23,7 @@ foreach ($client->getUserInfo()->user->blogs as $blog) {
 	}
 }
 */
-
+//test
 $user = 
 $feedURL = 'http://ohtheastrocity.tumblr.com/api/read/';
 $xml = simplexml_load_file($feedURL);
