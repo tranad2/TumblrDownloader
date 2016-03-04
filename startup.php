@@ -4,7 +4,7 @@
 <style>
 .button {
   display: inline-block;
-  border-radius: 4px;
+  border-radius: 10px;
   background-color: #529ECC;
   border: none;
   color: #FFFFFF;
@@ -43,7 +43,7 @@
 
 input[type=submit] {
   display: inline-block;
-  border-radius: 4px;
+  border-radius: 10px;
   background-color: #529ECC;
   border: none;
   color: #FFFFFF;
